@@ -3,6 +3,86 @@
     {
       "question": "Hi",
       "answer": "hi"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi"
+    },
+    {
+      "question": "What is an AI?",
+      "answer": "The Definition of AI is: the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages."
+    },
+    {
+      "question": "How do AI Learn?",
+      "answer": "Through Neural Networks and Deep Learning"
+    },
+    {
+      "question": "What is Deep Learning",
+      "answer": "a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher level features from data."
+    },
+    {
+      "question": "What is a Neural Network?",
+      "answer": "a computer system modeled on the human brain and nervous system."
+    },
+    {
+      "question": "Good Job!",
+      "answer": "Thank you!"
+    },
+    {
+      "question": "Capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is Emotional Support?",
+      "answer": "Emotional support is a way to show care and compassion for someone else, which can be verbal or nonverbal. It can help people cope with their emotions and experiences, and make them feel that they are not alone."
+    },
+    {
+      "question": "Capital of Germany",
+      "answer": "Berlin"
+    },
+    {
+      "question": "Capital of The United States",
+      "answer": "Washington D.C."
+    },
+    {
+      "question": "What does D.C. Mean in Washington D.C.?",
+      "answer": "District of Columbia"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "Boxxer"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "Boxxer"
+    },
+    {
+      "question": "Who am I?",
+      "answer": "I do not know your name, and I currently am not capable of learning names, unfortunitely."
+    },
+    {
+      "question": "Hauptstadt von Deutschland",
+      "answer": "Berlin"
+    },
+    {
+      "question": "\u5fb7\u56fd",
+      "answer": "Germany"
+    },
+    {
+      "question": "\u5fb7\u56fd\u9996\u90fd",
+      "answer": "\u67cf\u6797"
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answer": "I currently lack the capabilities to understand jokes and randomize, if you would like to help add this feature please DM pineapplequartz on Discord!"
+    },
+    {
+      "question": "When are new features coming?",
+      "answer": "I am unsure, If you would like to help or know what is coming, DM pineapplequartz on Discord!"
+    },
+    {
+      "question": "You have an issue.",
+      "answer": "If you believe something is wrong, Please DM pineapplequartz on Discord!"
     }
   ]
 }
