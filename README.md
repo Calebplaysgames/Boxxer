@@ -1,4 +1,4 @@
-Boxxer
+Boxxer © 2024 by Caleb Ray is licensed under CC BY-NC-SA 4.0 
 
 Boxxer is an AI Chatbot & Assistant that I am attempting to put on the level of ChatGPT
 Altho Chatgpt can write essays, my chatbot is more of an assistant and I am attempting to teach it mathematics, and all kinds of stuff.
