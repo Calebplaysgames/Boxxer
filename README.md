@@ -20,5 +20,7 @@ Plans:
   - Internet version would only upload the .json file to the cloud and add it to the primary .json file so that next time it gets updated, it has a bigger list of answers.
 - "type" in json so that if there are general greetings, and you tell it "hello" but it doesnt know the answer you can tell it "Greeting" and itll just assign hello, with all the other greetings,
 - "emotion" in json, words automatically assign to "neutral" but if it is not sure, then itll ask for the emotion between "angry" "joyful" "sad" "surprised" "crazy" "anxious" or "Disgusted".
+- Use existing words in a sentance that it has seen before to level out the grounds, so if you say "wow you know a lot" it can identify "know a lot" and you can tell it "have a lot of knowledge" and itll be able to add that with another answer like 
+"I see you are surprised that I have a lot of knowledge"
 
 I honestly dont know where to begin to make it ask the more complicated questions like question types, so if you know how to add more, shoot me a message on discord "JustCaleb" or username "pineapplequartz"
